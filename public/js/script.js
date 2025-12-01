@@ -1,0 +1,1 @@
+alert('Hai selamat datang di WPU Blog!');
